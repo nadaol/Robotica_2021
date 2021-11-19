@@ -2,7 +2,7 @@
 
 # Robótica y Animatrónica 2021
 
-<img src="https://github.com/nadaol/Robotica_2021/tree/main/imgs/img1.jpg" />
+![](./imgs/img1.jpg)
 
 #### <ins>Alumnos</ins> 
 - Oliva Nahuel David (<nahueloliva@gmail.com>)
